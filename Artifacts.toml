@@ -1,0 +1,91 @@
+[[ABC]]
+arch = "aarch64"
+git-tree-sha1 = "0607424e7f6143a3a802be4dbe3763c33a53bc82"
+libc = "glibc"
+os = "linux"
+
+    [[ABC.download]]
+    sha256 = "9b55b2f4a57706691edff97cd12fb4b27abec14280d11483ee63a2fa45d9dcbc"
+    url = "https://github.com/JuliaBinaryWrappers/ABC_jll.jl/releases/download/ABC-v1.1.0+0/ABC.v1.1.0.aarch64-linux-gnu.tar.gz"
+[[ABC]]
+arch = "aarch64"
+git-tree-sha1 = "a9a4db77df83721565814eb6cd95fcbd13f57618"
+libc = "musl"
+os = "linux"
+
+    [[ABC.download]]
+    sha256 = "15fce10b856af118b507b55e6ed7364fb6accce99766141f1fbd60bfba735189"
+    url = "https://github.com/JuliaBinaryWrappers/ABC_jll.jl/releases/download/ABC-v1.1.0+0/ABC.v1.1.0.aarch64-linux-musl.tar.gz"
+[[ABC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "140b24ee603389c4bd1597d72bf1bc2d46bec1f8"
+libc = "glibc"
+os = "linux"
+
+    [[ABC.download]]
+    sha256 = "7f0d5e486942e74c851063009b21a8dca8d65a1ce524a9c62024c6857a1d7da3"
+    url = "https://github.com/JuliaBinaryWrappers/ABC_jll.jl/releases/download/ABC-v1.1.0+0/ABC.v1.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[ABC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "11beb6c20c4ed07c34a2e23dbad05b1f19130e0b"
+libc = "musl"
+os = "linux"
+
+    [[ABC.download]]
+    sha256 = "43738bcb62c776a7fe8f8bbc496964ae35db5cec0d1716d49caa20aa3cbcb17a"
+    url = "https://github.com/JuliaBinaryWrappers/ABC_jll.jl/releases/download/ABC-v1.1.0+0/ABC.v1.1.0.armv7l-linux-musleabihf.tar.gz"
+[[ABC]]
+arch = "i686"
+git-tree-sha1 = "b7b03787e2c7a314c575ad24b1eae4e25a27a42a"
+libc = "glibc"
+os = "linux"
+
+    [[ABC.download]]
+    sha256 = "a52dbb5499db40fc101d9a047d24b428f21b7b35551a85b444da4843cffb2721"
+    url = "https://github.com/JuliaBinaryWrappers/ABC_jll.jl/releases/download/ABC-v1.1.0+0/ABC.v1.1.0.i686-linux-gnu.tar.gz"
+[[ABC]]
+arch = "i686"
+git-tree-sha1 = "9075781e9cb8ebd2e312f9a812470d15a9e28707"
+libc = "musl"
+os = "linux"
+
+    [[ABC.download]]
+    sha256 = "624175b546e4457f14eeddf2c0dfe2723fedc2c3ebdd53fb024b8d77b544690d"
+    url = "https://github.com/JuliaBinaryWrappers/ABC_jll.jl/releases/download/ABC-v1.1.0+0/ABC.v1.1.0.i686-linux-musl.tar.gz"
+[[ABC]]
+arch = "powerpc64le"
+git-tree-sha1 = "ebec6171c9bd1b4f2169436e5a77b6ab9672ee60"
+libc = "glibc"
+os = "linux"
+
+    [[ABC.download]]
+    sha256 = "f02ff1eb648de5ce4af18651d7fc5720bb804fc8fa450c136ef5a3a02600b0a9"
+    url = "https://github.com/JuliaBinaryWrappers/ABC_jll.jl/releases/download/ABC-v1.1.0+0/ABC.v1.1.0.powerpc64le-linux-gnu.tar.gz"
+[[ABC]]
+arch = "x86_64"
+git-tree-sha1 = "f9965906e1a292e7786c332cdd36936f00d8c539"
+os = "macos"
+
+    [[ABC.download]]
+    sha256 = "e0056587edaad6861d11ef7d10bee4ebc576968dee01fda891d604cc0a26b106"
+    url = "https://github.com/JuliaBinaryWrappers/ABC_jll.jl/releases/download/ABC-v1.1.0+0/ABC.v1.1.0.x86_64-apple-darwin.tar.gz"
+[[ABC]]
+arch = "x86_64"
+git-tree-sha1 = "928fc5abbf87e8c69529028c7c8ca48e59415e3c"
+libc = "glibc"
+os = "linux"
+
+    [[ABC.download]]
+    sha256 = "2743327cf295add3c94a50e9c5f15dacc82d92b72cfd2ee82e19787fd4fb1192"
+    url = "https://github.com/JuliaBinaryWrappers/ABC_jll.jl/releases/download/ABC-v1.1.0+0/ABC.v1.1.0.x86_64-linux-gnu.tar.gz"
+[[ABC]]
+arch = "x86_64"
+git-tree-sha1 = "24108107833b2068418a01f5bef81253169bbfcd"
+libc = "musl"
+os = "linux"
+
+    [[ABC.download]]
+    sha256 = "7cef6311ab3056c13213bb1b6740f6cf932a6408c5dcedc88bbea9f23e576460"
+    url = "https://github.com/JuliaBinaryWrappers/ABC_jll.jl/releases/download/ABC-v1.1.0+0/ABC.v1.1.0.x86_64-linux-musl.tar.gz"
